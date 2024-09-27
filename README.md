@@ -1,31 +1,26 @@
 <!DOCTYPE html>
 <html>
-        <head>
-             <title> Roblox | Darkdivers Warlord Dive Loadout Recommendation 
-            </title>
+ <head>
+  <title> Roblox | Darkdivers Warlord Dive Loadout Recommendation </title>
 <style>
-        body {
-            font-family: Arial, sans-serif;
+        body {  font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
             background-color: #34484E;
             color: #ffffff; /* Set default text color to white */
         }
-        header {
-            background: #004225;
+        header {  background: #004225;
             color: #ffffff; /* Header text color */
             padding: 10px 0;
             text-align: center;
         }
-        main {
-            margin: 20px 0;
+        main {   margin: 20px 0;
             background: #DBC926; /* Corrected the background color */
             padding: 20px;
             border-radius: 12px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
-        footer {
-            text-align: center;
+        footer {  text-align: center;
             padding: 10px 0;
             background: #c8102e;
             color: #ffffff; /* Footer text color */
@@ -33,13 +28,11 @@
             bottom: 0;
             width: 100%;
         }
-        img {
-            max-width: 100%;
+        img { max-width: 100%;
             height: auto;
             border-radius: 5px;
         }
-        a {
-            color: #ffffff; /* Set link color to white */
+        a { color: #ffffff; /* Set link color to white */
         }
     </style>
 <body>
