@@ -105,8 +105,8 @@
                 <h3> Zigma B </h3>
                         <p> Slow-Guided Orbital Laser [3000 Total Duration Damage + 50% at level 10] that is activated for 20 seconds. </p>
 
-        <h2> Conclusion </h2>
-                <p> This is the best current loadout [in my opinion] for Warlord Dive without spending any money on microtransactions (except for Warlord if you didn't get a chance to buy it for 500,000 Credits), as of current DARKDIVERS 0.49. </p>
-                <p> To find more information about DARKDIVERS, head to <a href="https://dark-divers.fandom.com/wiki/Dark_divers_Wiki">DARKDIVERS Wiki</a> </p>
+<h2> Conclusion </h2>
+<p> This is the best current loadout [in my opinion] for Warlord Dive without spending any money on microtransactions (except for Warlord if you didn't get a chance to buy it for 500,000 Credits), as of current DARKDIVERS 0.49. </p>
+<p> To find more information about DARKDIVERS, head to <a href="https://dark-divers.fandom.com/wiki/Dark_divers_Wiki">DARKDIVERS Wiki</a> </p>
 </body>
 </html>
